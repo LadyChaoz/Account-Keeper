@@ -32,9 +32,9 @@ url|userid|password|Comment|
 ~~~~  
 If the user chooses to display account information for all URL's in the system, the list will be separated by URL, where the URL's are in alphabetical order.
 
-The function for replacing an entry under a specific URL (-mv) requires a properly formatted URL in the command line. The user will be prompted for a search string. The program will then list the first entry for replacement and prompt the user for correctness. If the user answers '-y' the entry will be replaced with user input, otherwise the program will continue searching until the next match or the end of file. This capability is currently non-functional.
+The function for replacing an entry under a specific URL (-mv) requires a properly formatted URL in the command line. The user will be prompted for a search string. The program will then list the first entry for replacement and prompt the user for correctness. If the user answers '-y' the entry will be replaced with user input, otherwise the program will continue searching until the next match or the end of file. **This capability is currently non-functional.**
 
-The function for deleting an entry under a specific URL (-rm) requires a properly formatted URL in the command line. The user will be prompted for a search string. The program will then list the first entry for deletion and prompt the user for correctness. If the user answers '-y' the entry will be deleted, otherwise the program will continue searching until the next match or the end of file. This capability is currently non-functional.
+The function for deleting an entry under a specific URL (-rm) requires a properly formatted URL in the command line. The user will be prompted for a search string. The program will then list the first entry for deletion and prompt the user for correctness. If the user answers '-y' the entry will be deleted, otherwise the program will continue searching until the next match or the end of file. **This capability is currently non-functional.**
 
 The function for displaying a list of any accounts with a matching string (-s) will search the entire directory to find instances of the string in any entry. It will then display the list for the user.
 
