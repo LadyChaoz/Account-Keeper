@@ -16,7 +16,7 @@ pwkeep is called from the command line using expressions. They are listed below:
 * -rm URL         *Deletes an entry for a specific url*
 * -s STRING       *Displays all entries with a specific string*
 
-If an expression is not given, the program assumes a value of "-README" which displays the list of options above. 
+If an expression is not given, the program assumes a value of '-README' which displays the list of options above. 
 
 EXPRESSIONS
 -----------
