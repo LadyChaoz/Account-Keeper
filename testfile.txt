@@ -1,0 +1,36 @@
+PWTEXT 7
+
+url=gmail.com
+userid=freddy
+passwd=pebbles
+comment=Gmail Account
+
+url=slatestone.com
+userid=fflintstone
+passwd=dino01
+comment=Office Domain Account
+
+url=mlb.com
+userid=freddy@gmail.com
+passwd=playball
+comment=Major League Baseball
+
+url=gmail.com
+userid=anne
+passwd=likes
+comment=Gmail Accounts
+
+url=gmail.com
+userid=Gmail
+passwd=likes 
+comment=Snuggles
+
+url=gmail.com
+userid=freddy
+passwd=pebbles
+comment=Gmail Account
+
+url=gmail.com
+userid=hello
+passwd=Gmail
+comment=HAVE SNUGGLES
