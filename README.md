@@ -7,14 +7,14 @@ Welcome to pwkeep!
 pwkeep is a password keeper program. Passwords are stored in a hidden database under your home directory. This database will not give read access to any user and will be created if it does not already exists. Upon running the program for the first time, a user will be prompted to input a password, which will then be used to make subsequent accesses to the application.
 
 pwkeep is called from the command line using expressions. They are listed below: 
-* -a URL          *Adds an entry for a specific url*
-* -e FILE         *Exports data to a file*
-* -i FILE         *Imports data from a file*
-* -ls all         *Displays a list of accounts*
-* -ls URL         *Displays a list of accounts for a specific url*
-* -mv URL         *Replaces an entry for a specific url*
-* -rm URL         *Deletes an entry for a specific url*
-* -s STRING       *Displays all entries with a specific string*
+* -a URL ..... *Adds an entry for a specific url*
+* -e FILE ..... *Exports data to a file*
+* -i FILE ..... *Imports data from a file*
+* -ls all ..... *Displays a list of accounts*
+* -ls URL ..... *Displays a list of accounts for a specific url*
+* -mv URL ..... *Replaces an entry for a specific url*
+* -rm URL ..... *Deletes an entry for a specific url*
+* -s STRING ..... *Displays all entries with a specific string*
 
 If an expression is not given, the program assumes a value of '-README' which displays the list of options above. 
 
