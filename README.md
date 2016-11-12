@@ -37,7 +37,7 @@ The function for displaying a list of any accounts with a matching string (-s) w
 
 FILE FORMAT
 -----------
-Files should be formatted as below the dotted line, where # is the number of entries and * is a string. URL's should not include a server name of "www." 
+Files should be formatted as below, where # is the number of entries and * is a string. URL's should not include a server name of "www." 
 -----------------------------------------
 PWTEXT #
 
